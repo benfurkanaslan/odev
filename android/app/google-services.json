@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033412378620",
+    "project_id": "odev-e1cbe",
+    "storage_bucket": "odev-e1cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033412378620:android:c7887e7051fac1a47d3c79",
+        "android_client_info": {
+          "package_name": "com.alvin.odev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033412378620-dlei6db96pkqekico74dn6og0bou5h2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_ef81mPoFZSyJFhXOpK1Dw1QEj3imi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033412378620-dlei6db96pkqekico74dn6og0bou5h2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
